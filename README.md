@@ -1,4 +1,4 @@
-# Judo Training Center Management System using C# (VScode)#
+# Judo Training Center Management System using C# (VScode)
 This project is a C# Windows Forms Application designed to manage a Judo Training Center for athletes. The system provides a user-friendly GUI to handle various training-related operations efficiently.
 
 📌 Key Features:
